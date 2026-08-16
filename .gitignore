@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+*.class
+
+# 本地 Gradle 发行版（体积大，不提交）
+gradle-*/
+*.zip
+
+# 构建日志
+*.log
+*.txt
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
